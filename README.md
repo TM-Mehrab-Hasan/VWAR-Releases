@@ -8,9 +8,6 @@ Official release repository for VWAR (Virus Watcher & Remover) software.
 Windows installer with server-based activation and online features.
 - **Download**: [VWAR_Online_Installer.exe](https://github.com/TM-Mehrab-Hasan/VWAR-Releases/releases/download/vwar/VWAR_Online_Installer.exe)
 
-### VWAR Offline  
-Windows installer with USB-based offline activation and full desktop features.
-- **Download**: [VWAR_Offline_Installer.exe](https://github.com/TM-Mehrab-Hasan/VWAR-Releases/releases/download/vwar/VWAR_Offline_Installer.exe)
 
 ### VWAR USB KEY Protection
 Portable USB version with limited features for USB-only deployment.
